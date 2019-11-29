@@ -98,7 +98,7 @@ const user = {
             route: "1",
             children: [{
               component: "dataCenter/dataClean/pendingData",
-              id: "fwe16516516156151dddfwdd61",
+              id: "fwe1651651615615aaaa1dddfwdd61",
               meta: { keepAlive: "true", icon: "dash", title: "待处理数据" },
               name: "dataClean-pendingData",
               path: "/dataCenter/dataClean/pendingData",
