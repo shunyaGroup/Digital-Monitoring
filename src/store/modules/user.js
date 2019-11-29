@@ -108,31 +108,6 @@ const user = {
         },
         {
           component: "layouts/RouteView",
-          id: "9502685863ab87f0ad1134142788a385",
-          meta: { keepAlive: "false", icon: "home", title: "网评内容管理" },
-          name: "capacityComment",
-          path: "/capacityComment",
-          redirect: null,
-          route: "1",
-          children: [{
-            component: "capacityComment/comment",
-            id: "fwe16516516156151dddfwefw61",
-            meta: { keepAlive: "true", icon: "ordered-list", title: "网评内容生成" },
-            name: "capacityComment-comment",
-            path: "/capacityComment/comment",
-            route: "1",
-          },
-          {
-            component: "capacityComment/dataCenter",
-            id: "fwe16516516156151dddfwefw61",
-            meta: { keepAlive: "true", icon: "ordered-list", title: "网评处理统计" },
-            name: "capacityComment-dataCenter",
-            path: "/capacityComment/dataCenter",
-            route: "2",
-          }]
-        },
-        {
-          component: "layouts/RouteView",
           id: "baf16b7174bdfwef821b6bab2ff3fa9abb200d",
           meta: { keepAlive: "true", icon: "ordered-list", title: "方案管理" },
           name: "dataC-recall",
