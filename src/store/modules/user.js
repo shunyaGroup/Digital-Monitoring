@@ -102,7 +102,7 @@ const user = {
               meta: { keepAlive: "true", icon: "dash", title: "待处理数据" },
               name: "dataClean-pendingData",
               path: "/dataCenter/dataClean/pendingData",
-              route: "1",
+              route: "2",
             }]
           }]
         },
