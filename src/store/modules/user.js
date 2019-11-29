@@ -116,7 +116,7 @@ const user = {
           route: "1",
           children: [{
             component: "dataC/itemAdd",
-            id: "fwe16516516156151dddfwefw61",
+            id: "fwe16516516156151dddfweddfw61",
             meta: { keepAlive: "true", icon: "dash", title: "添加方案" },
             name: "dataC-itemAdd",
             path: "/dataC/itemAdd",
